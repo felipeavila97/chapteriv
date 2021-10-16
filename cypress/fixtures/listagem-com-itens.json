@@ -1,0 +1,32 @@
+[
+    {
+        "firstName": "Felipe",
+        "lastName": "Avila",
+        "adress": "Novo\nHamburgo",
+        "emailAdress": "feliperoos97@gmail.com",
+        "radioGender": "n",
+        "checks": [
+            "Netflix",
+            "Dormir"
+        ],
+        "selectCountries": "Dinamarca",
+        "selectYears": "2017",
+        "selectMonths": "Abril",
+        "pwd": "Senhado98"
+    },
+    {
+        "firstName": "Felipe",
+        "lastName": "Roos",
+        "adress": "Novo\nHamburgo",
+        "emailAdress": "feliperoos98@gmail.com",
+        "radioGender": "m",
+        "checks": [
+            "Netflix",
+            "Dormir"
+        ],
+        "selectCountries": "Brasil",
+        "selectYears": "2011",
+        "selectMonths": "Abril",
+        "pwd": "Senhado98"
+    }
+]
